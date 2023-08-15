@@ -19,7 +19,7 @@ Dashboard has four sections
    uses phonepe for digital transaction.
 
 3.**Explore Data** 
-    This section gives user edge over Transaction amount, Transaction count and user can explore data of specific state and top payment type
+    This section gives user edge over Transaction amount, Transaction count and user can explore data of specific state and top payment type.
 
 4.**About**
      This gives user description about Phonepe and link for sources.
