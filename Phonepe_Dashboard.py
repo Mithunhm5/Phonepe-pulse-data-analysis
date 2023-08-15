@@ -317,7 +317,7 @@ if selected == "About":
     st.write("##### PhonePe was incorporated in December 2015.In April 2016, the company was acquired by Flipkart and as part of the acquisition,the FxMart license was transferred to PhonePe and rebranded as the PhonePe wallet.PhonePe's founder Sameer Nigam was appointed as the CEO of the company.In August 2016, the company partnered with Yes Bank to launch a UPI-based mobile payment app, based on the government-backed UPI platform.Within three months of launch, the app was downloaded by over one crore users.In 2018, PhonePe became the fastest Indian payment app to get a five crore badge on the Google Play Store. The PhonePe app overtook BHIM to become the market leader in UPI transactions in August 2017. In 2022, PhonePe became the first UPI TPAP (Third Party Application Providers) App to allow UPI activation through Aadhaar. A year later, it further expanded its services by launching international UPI payments, allowing Indian users traveling abroad to pay foreign merchants with Unified Payments Interface(UPI). As per NPCI's UPI ecosystem statistics, PhonePe currently holds a 50% market share by value of transactions in the UPI market.")
    
     st.markdown("### :violet[My Project GitHub link]" )
-    st.write("##### mithun git hub")
+    st.write("##### https://github.com/Mithunhm5/Phonepe-pulse-data-analysis")
     
     
     st.markdown("### :violet[Image and content source]")
