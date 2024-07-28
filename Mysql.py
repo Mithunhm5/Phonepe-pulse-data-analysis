@@ -2,7 +2,7 @@
 # Connecting with SQL
 mydb = sql.connect(host="localhost",
                    user="root",
-                   password="9945484183mM@",
+                   password="15051997",
                    auth_plugin="mysql_native_password",
                    database= "Phonepe_pulse"
                   )
